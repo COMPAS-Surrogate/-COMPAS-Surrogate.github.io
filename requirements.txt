@@ -1,0 +1,4 @@
+pydata-sphinx-theme
+sphinx
+sphinx_rtd_theme
+myst_parser
